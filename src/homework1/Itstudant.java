@@ -12,6 +12,7 @@ package homework1;
 public class Itstudant extends Studant {
 private double mid;
 private double finale;
+
 private double project;
 
     public Itstudant( int id ,String name, String major,double mid, double finale, double project) {

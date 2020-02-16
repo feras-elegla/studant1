@@ -11,6 +11,7 @@ package homework1;
  */
 public abstract class Studant {
     
+    
     private int id;
     private  String name;
    private String major; 

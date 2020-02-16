@@ -11,6 +11,7 @@ package homework1;
  */
 public class Artstudant extends Studant {
     
+    
     private double mid;
 private double finale;
 private double report;

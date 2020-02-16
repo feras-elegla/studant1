@@ -20,6 +20,7 @@ public class Homework1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws FileNotFoundException {
+        
         // TODO code application logic here
         Studant st1=new Itstudant(120181543,"feras", " development ",95, 80, 90);
         Studant st2=new Itstudant(120181712,"mohamed", "computer science",90, 70, 85);
