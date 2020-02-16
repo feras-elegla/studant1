@@ -15,6 +15,7 @@ public class Artstudant extends Studant {
 private double finale;
 private double report;
 
+
     public double getMid() {
         return mid;
     }

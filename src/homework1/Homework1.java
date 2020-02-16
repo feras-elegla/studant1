@@ -26,7 +26,7 @@ public class Homework1 {
         Studant st3=new Itstudant(2201418,"Hazem ", " computer science",75, 0, 75);
         Studant st4=new Artstudant(120167879,"fares", "Multimedea",67, 50, 90);
         Studant st5=new Artstudant(2201714,"foad", "web developer",99, 70, 95);
-          
+          System.out.println("");
         Studant studantarray[]={st1,st2,st3,st4,st5};
          Studant studantarraytemp[]=new Studant[studantarray.length];
            System.out.println("the maeke befor sorted\n");

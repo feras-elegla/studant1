@@ -10,6 +10,7 @@ package homework1;
  * @author hp
  */
 public abstract class Studant {
+    
     private int id;
     private  String name;
    private String major; 

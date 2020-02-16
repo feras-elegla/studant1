@@ -19,6 +19,7 @@ private double project;
         this.mid = mid;
         this.finale = finale;
         this.project = project;
+        
     }
 
     @Override
