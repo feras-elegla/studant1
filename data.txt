@@ -1,0 +1,5 @@
+ name Hazem  id 2201418 major  computer science grad 45.0
+ name fares id 120167879 major Multimedea grad 2535.8
+ name mohamed id 120181712 major computer science grad 2852.5
+ name feras id 120181543 major  development  grad 3255.5
+ name foad id 2201714 major web developer grad 3549.1
